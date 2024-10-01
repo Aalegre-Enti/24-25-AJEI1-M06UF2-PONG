@@ -241,7 +241,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   puntuacionA: 0
+  puntuacionAtexto: {fileID: 1750480776}
   puntuacionB: 0
+  puntuacionBtexto: {fileID: 1961354928}
 --- !u!1 &185855375
 GameObject:
   m_ObjectHideFlags: 0
